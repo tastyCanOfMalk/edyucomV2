@@ -3,6 +3,9 @@
   border-style: dashed;
   border-width: 1px;
 }
+.logo {
+  font-size: 1.2rem;
+}
 
 .name {
   border-width: 1px;
@@ -11,4 +14,38 @@
 .links {
   border-width: 1px;
   border-color: blue;
+}
+/* Poppins for a modern look */
+.poppins {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+
+/* Montserrat for a geometric and elegant style */
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+/* Raleway for a sleek and minimalist style */
+.raleway {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+}
+
+/* Playfair Display for a classic and stylish look */
+.playfair {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+}
+
+/* Roboto for a modern and approachable feel */
+.roboto {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
+.poiret-one-regular {
+  font-family: "Poiret One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
