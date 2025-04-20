@@ -26,6 +26,14 @@ in global `styles.css`, add
 
 `+ @plugin "@tailwindcss/typography";`
 
+# [DaisyUI](https://daisyui.com/docs/install/)
+
+`npm i -D daisyui@latest`
+
+# [Lucide Icons](https://lucide.dev/guide/packages/lucide-angular)
+
+`npm install lucide-angular`
+
 # [Taiga UI](https://taiga-ui.dev/getting-started)
 
 `ng add taiga-ui`

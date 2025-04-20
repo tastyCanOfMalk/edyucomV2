@@ -1,0 +1,14 @@
+.header {
+  border-color: red;
+  border-style: dashed;
+  border-width: 1px;
+}
+
+.name {
+  border-width: 1px;
+  border-color: blue;
+}
+.links {
+  border-width: 1px;
+  border-color: blue;
+}
